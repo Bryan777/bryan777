@@ -1,9 +1,9 @@
 ## Helloo!
 
-I'm Wladimir, actually working as a fullstack developer.
-I like to lean and discover new technologies, start projects, explore ideas.
+I'm Wladimir, currently working as a fullstack developer.
+I love learning and discovering new technologies, launching projects and exploring ideas.
 
-## 👨‍💻 What I am doing..
+## 👨‍💻 What I'm doing...
 
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=flat&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-f34f29?style=flat&logo=angular&logoColor=white)
